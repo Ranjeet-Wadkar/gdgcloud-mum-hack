@@ -8,6 +8,10 @@ import os
 GEMINI_API_KEY = os.getenv('GEMINI_API_KEY', 'demo-key-placeholder')
 GEMINI_MODE = os.getenv('GEMINI_MODE', 'demo')  # 'demo' or 'production'
 
+# Tavily API Configuration
+TAVILY_API_KEY = os.getenv('TAVILY_API_KEY', 'demo-key-placeholder')
+TAVILY_MODE = os.getenv('TAVILY_MODE', 'demo')  # 'demo' or 'production'
+
 # Application Settings
 APP_TITLE = "Research-to-Startup AI Agent Swarm"
 APP_ICON = "🚀"
