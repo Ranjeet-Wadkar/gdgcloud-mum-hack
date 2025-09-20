@@ -1,0 +1,58 @@
+[
+  {
+    "name": "TechSeed Ventures",
+    "focus": ["AI", "Deeptech"],
+    "stage": "Seed",
+    "ticket_size": "$100k-$500k",
+    "geo": "Global"
+  },
+  {
+    "name": "HealthScale Capital",
+    "focus": ["Biotech", "Healthcare"],
+    "stage": "Series A",
+    "ticket_size": "$1M-$3M",
+    "geo": "India"
+  },
+  {
+    "name": "GreenEdge Partners",
+    "focus": ["Sustainability", "CleanTech"],
+    "stage": "Seed",
+    "ticket_size": "$250k-$750k",
+    "geo": "Global"
+  },
+  {
+    "name": "DeepTech Ventures",
+    "focus": ["AI", "Machine Learning", "Robotics"],
+    "stage": "Seed",
+    "ticket_size": "$200k-$800k",
+    "geo": "Global"
+  },
+  {
+    "name": "BioInnovate Capital",
+    "focus": ["Biotech", "Pharma", "Healthcare"],
+    "stage": "Series A",
+    "ticket_size": "$2M-$5M",
+    "geo": "Global"
+  },
+  {
+    "name": "ClimateTech Fund",
+    "focus": ["Sustainability", "CleanTech", "Energy"],
+    "stage": "Series A",
+    "ticket_size": "$1M-$4M",
+    "geo": "Global"
+  },
+  {
+    "name": "FinTech Accelerator",
+    "focus": ["FinTech", "Blockchain", "AI"],
+    "stage": "Seed",
+    "ticket_size": "$150k-$600k",
+    "geo": "India"
+  },
+  {
+    "name": "EdTech Ventures",
+    "focus": ["EdTech", "AI", "Machine Learning"],
+    "stage": "Seed",
+    "ticket_size": "$100k-$400k",
+    "geo": "Global"
+  }
+]
