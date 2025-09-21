@@ -25,7 +25,7 @@ from utils.gemini_client import initialize_gemini
 
 # Page configuration
 st.set_page_config(
-    page_title="Research-to-Startup AI Agent Swarm",
+    page_title="Resa Paper to Pitch",
     page_icon="🚀",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -84,7 +84,7 @@ def initialize_session_state():
 
 def display_header():
     """Display application header."""
-    st.title("🚀 Research-to-Startup AI Agent Swarm")
+    st.title("🚀 Resa: Paper to Pitch")
     st.markdown("Transform research papers into investor-ready pitch decks using AI agents")
     
     # Display Gemini mode status
